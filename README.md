@@ -38,3 +38,5 @@ Then hit <kbd>return</kbd> / <kbd>Enter</kbd>.
 
 ## 6. Wait until the script is finished
 The script needs to run a few minutes. At the end it will display "Finally Over ;-)" in blue color. Ensure it runs until the end.
+
+Shaik sami
